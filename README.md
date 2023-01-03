@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KouGa</h1>
 &nbsp;
-<h3 align="center">Welcome To My Profile.</h3>
+<h3 align="center">Welcome to my profile.</h3>
 
 - 👀 I’m interested in smart contract
 - 🌱 I’m currently learning Solidity
