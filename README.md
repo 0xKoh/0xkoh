@@ -10,4 +10,5 @@
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,vscode,solidity,ipfs,electron,react,materialui,git,github,bots,discord,twitter,ps&theme=light" />
 
 <h2 align="center">My commit.</h2>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=0xKouGa&show_icons=true" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKouGa&show_icons=true" />
+<img alt="github state" src="https://github-readme-stats.vercel.app/api?username=0xKouGa&show_icons=true" />
