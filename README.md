@@ -10,4 +10,4 @@
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,vscode,solidity,ipfs,electron,react,materialui,git,github,bots,discord,twitter,ps&theme=light" />
 
 <h2 align="center">My commit.</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xKouGa)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=0xKouGa&show_icons=true" />
