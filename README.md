@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋 I'm 0xKouGa.</h1>
 &nbsp;
-<h2 align="center">Welcome to my profile.</h3>
+<h4 align="center">Welcome to my profile.</h4>
 
 <p align="middle">
-  - 👀 I’m interested in smart contract<br>
-  - 🌱 I’m currently learning Solidity<br>
+  - 👀 I’m interested in smart contract</br>
+  - 🌱 I’m currently learning Solidity</br>
   - 💞️ I’m looking to collaborate on Web3.0
 </p>
   
