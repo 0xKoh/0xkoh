@@ -18,5 +18,5 @@
 
 <p align="middle"> 
 <img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKouGa&layout=compact&show_icons=true" />
-<img alt="github state" width="44.8%" src="https://github-readme-stats.vercel.app/api?username=0xKouGa&show_icons=true" />
+<img alt="github state" width="50%" src="https://github-readme-stats.vercel.app/api?username=0xKouGa&show_icons=true" />
 </p> 
