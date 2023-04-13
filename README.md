@@ -15,6 +15,6 @@
 <h2 align="center">🚴 My commits.</h2>
 
 <p align="middle"> 
-<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKouGa&layout=compact&show_icons=true" />
-<img alt="github state" width="50%" src="https://github-readme-stats.vercel.app/api?username=0xKouGa&show_icons=true" />
+<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkouga&layout=compact&show_icons=true" />
+<img alt="github state" width="50%" src="https://github-readme-stats.vercel.app/api?username=0xkouga&show_icons=true" />
 </p> 
