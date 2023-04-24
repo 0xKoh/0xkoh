@@ -9,12 +9,12 @@
 <h2 align="center">🏂 My skills.</h2>
 
 <p align="middle">
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,vscode,solidity,ipfs,electron,react,materialui,git,github,bots,discord,twitter,ps&theme=light&perline=10" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,vscode,solidity,mysql,ipfs,electron,react,materialui,git,github,bots,discord,twitter,ps&theme=dark&perline=10" />
 </p>
 
 <h2 align="center">🚴 My commits.</h2>
 
 <p align="middle"> 
-<img alt="Top Langs" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkouga&layout=compact&show_icons=true" />
-<img alt="github state" width="50%" src="https://github-readme-stats.vercel.app/api?username=0xkouga&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-0xkouga.vercel.app/api/top-langs/?username=0xkouga&layout=compact&show_icons=true" />
+  <img alt="github state" height="150px" src="https://github-readme-stats-0xkouga.vercel.app/api?username=0xkouga&show_icons=true" />
 </p> 
