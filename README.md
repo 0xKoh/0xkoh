@@ -2,7 +2,7 @@
 <h4 align="center">Welcome to my profile.</h4>
 <p align="middle">
   - 👀 I’m interested in smart contract</br>
-  - 🌱 I’m currently learning Solidity</br>
+  - 🌱 I’m currently learning C-lang & Solidity</br>
   - 💞️ I’m looking to collaborate on Web3.0
 </p>
   
