@@ -9,7 +9,7 @@
 <h2 align="center">🏂 My skills.</h2>
 
 <p align="middle">
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,vscode,solidity,mysql,ipfs,electron,react,materialui,git,github,bots,discord,twitter,ps&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,git,ts,solidity,nodejs,ipfs,react,materialui,discord&theme=dark&perline=10" />
 </p>
 
 <h2 align="center">🚴 My commits.</h2>
